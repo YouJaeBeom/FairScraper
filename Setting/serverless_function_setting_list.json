@@ -1,0 +1,155 @@
+
+{
+    "google_search" : [
+        {
+            "pir_system": "google_search",
+            "function_name": "GoogleSearch_Advanced_scraping",
+            "region": "ap-northeast-2",
+            "arn": "arn:aws:lambda:ap-northeast-2:{id}:function:GoogleSearch_Advanced_scraping"
+        },
+        {
+            "pir_system": "google_search",
+            "function_name": "GoogleSearch_Advanced_scraping",
+            "region": "ap-northeast-1",
+            "arn": "arn:aws:lambda:ap-northeast-1:{id}:function:GoogleSearch_Advanced_scraping"
+        },
+        {
+            "pir_system": "google_search",
+            "function_name": "GoogleSearch_Advanced_scraping",
+            "region": "us-east-2",
+            "arn": "arn:aws:lambda:us-east-2:{id}:function:GoogleSearch_Advanced_scraping"
+        },
+        {
+            "pir_system": "google_search",
+            "function_name": "GoogleSearch_Advanced_scraping",
+            "region": "us-west-1",
+            "arn": "arn:aws:lambda:us-west-1:{id}:function:GoogleSearch_Advanced_scraping"
+        },
+        {
+            "pir_system": "google_search",
+            "function_name": "GoogleSearch_Advanced_scraping",
+            "region": "eu-west-2",
+            "arn": "arn:aws:lambda:eu-west-2:{id}:function:GoogleSearch_Advanced_scraping"
+        },
+        {
+            "pir_system": "google_search",
+            "function_name": "GoogleSearch_Advanced_scraping",
+            "region": "eu-west-3",
+            "arn": "arn:aws:lambda:eu-west-3:{id}:function:GoogleSearch_Advanced_scraping"
+        }
+    ],
+    "google_news" : [
+        {
+            "pir_system": "google_news",
+            "function_name": "GoogleNews_Advanced_scraping",
+            "region": "ap-northeast-2",
+            "arn": "arn:aws:lambda:ap-northeast-2:{id}:function:GoogleNews_Advanced_scraping"
+        },
+        {
+            "pir_system": "google_news",
+            "function_name": "GoogleNews_Advanced_scraping",
+            "region": "ap-northeast-1",
+            "arn": "arn:aws:lambda:ap-northeast-1:{id}:function:GoogleNews_Advanced_scraping"
+        },
+        {
+            "pir_system": "google_news",
+            "function_name": "GoogleNews_Advanced_scraping",
+            "region": "us-east-2",
+            "arn": "arn:aws:lambda:us-east-2:{id}:function:GoogleNews_Advanced_scraping"
+        },
+        {
+            "pir_system": "google_news",
+            "function_name": "GoogleNews_Advanced_scraping",
+            "region": "us-west-1",
+            "arn": "arn:aws:lambda:us-west-1:{id}:function:GoogleNews_Advanced_scraping"
+        },
+        {
+            "pir_system": "google_news",
+            "function_name": "GoogleNews_Advanced_scraping",
+            "region": "eu-west-2",
+            "arn": "arn:aws:lambda:eu-west-2:{id}:function:GoogleNews_Advanced_scraping"
+        },
+        {
+            "pir_system": "google_news",
+            "function_name": "GoogleNews_Advanced_scraping",
+            "region": "eu-west-3",
+            "arn": "arn:aws:lambda:eu-west-3:{id}:function:GoogleNews_Advanced_scraping"
+        }
+    ],
+    "bing_search" : [
+        {
+            "pir_system": "bing_search",
+            "function_name": "BingSearch_Advanced_scraping",
+            "region": "ap-northeast-2",
+            "arn": "arn:aws:lambda:ap-northeast-2:{id}:function:BingSearch_Advanced_scraping"
+        },
+        {
+            "pir_system": "bing_search",
+            "function_name": "BingSearch_Advanced_scraping",
+            "region": "ap-northeast-1",
+            "arn": "arn:aws:lambda:ap-northeast-1:{id}:function:BingSearch_Advanced_scraping"
+        },
+        {
+            "pir_system": "bing_search",
+            "function_name": "BingSearch_Advanced_scraping",
+            "region": "us-east-2",
+            "arn": "arn:aws:lambda:us-east-2:{id}:function:BingSearch_Advanced_scraping"
+        },
+        {
+            "pir_system": "bing_search",
+            "function_name": "BingSearch_Advanced_scraping",
+            "region": "us-west-1",
+            "arn": "arn:aws:lambda:us-west-1:{id}:function:BingSearch_Advanced_scraping"
+        },
+        {
+            "pir_system": "bing_search",
+            "function_name": "BingSearch_Advanced_scraping",
+            "region": "eu-west-2",
+            "arn": "arn:aws:lambda:eu-west-2:{id}:function:BingSearch_Advanced_scraping"
+        },
+        {
+            "pir_system": "bing_search",
+            "function_name": "BingSearch_Advanced_scraping",
+            "region": "eu-west-3",
+            "arn": "arn:aws:lambda:eu-west-3:{id}:function:BingSearch_Advanced_scraping"
+        }
+    ],
+    "bing_news": [
+        {
+            "pir_system": "bing_news",
+            "function_name": "BingNews_Advanced_scraping",
+            "region": "ap-northeast-2",
+            "arn": "arn:aws:lambda:ap-northeast-2:{id}:function:BingNews_Advanced_scraping"
+        },
+        {
+            "pir_system": "bing_news",
+            "function_name": "BingNews_Advanced_scraping",
+            "region": "ap-northeast-1",
+            "arn": "arn:aws:lambda:ap-northeast-1:{id}:function:BingNews_Advanced_scraping"
+        },
+        {
+            "pir_system": "bing_news",
+            "function_name": "BingNews_Advanced_scraping",
+            "region": "us-east-2",
+            "arn": "arn:aws:lambda:us-east-2:{id}:function:BingNews_Advanced_scraping"
+        },
+        {
+            "pir_system": "bing_news",
+            "function_name": "BingNews_Advanced_scraping",
+            "region": "us-west-1",
+            "arn": "arn:aws:lambda:us-west-1:{id}:function:BingNews_Advanced_scraping"
+        },
+        {
+            "pir_system": "bing_news",
+            "function_name": "BingNews_Advanced_scraping",
+            "region": "eu-west-2",
+            "arn": "arn:aws:lambda:eu-west-2:{id}:function:BingNews_Advanced_scraping"
+        },
+        {
+            "pir_system": "bing_news",
+            "function_name": "BingNews_Advanced_scraping",
+            "region": "eu-west-3",
+            "arn": "arn:aws:lambda:eu-west-3:{id}:function:BingNews_Advanced_scraping"
+        }
+    ]
+}

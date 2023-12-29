@@ -1,0 +1,23 @@
+[
+    {
+        "accept_language": "en-US",
+        "language": "en-US"
+    },
+    {
+        "accept_language": "ja-JP, en",
+        "language": "ja-JP"
+    },
+    {
+        "accept_language": "ko-KR, en",
+        "language": "ko-KR"
+    },
+    {
+        "accept_language": "fr-FR, en",
+        "language": "fr-FR"
+    },
+    {
+        "accept_language": "en-GB",
+        "language": "en-GB"
+    }
+
+]
