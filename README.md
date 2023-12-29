@@ -20,6 +20,9 @@ Fig. 2 illustrates the overall architecture of the proposed FairScraper. FairScr
 - How to install your project? 
 - Provide step-by-step instructions or command lines to get the development environment running.
 
+```bash
+python start_agent_generator.py
+
 ### Executing program
 
 - How to run the program?
