@@ -21,7 +21,7 @@ Fig. 2 illustrates the overall architecture of the proposed FairScraper. FairScr
 - Provide step-by-step instructions or command lines to get the development environment running.
 
 ```bash
-python start_agent_generator.py
+pip install -r requests.txt
 ```
 
 ### Executing program
