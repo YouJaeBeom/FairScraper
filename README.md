@@ -22,6 +22,7 @@ Fig. 2 illustrates the overall architecture of the proposed FairScraper. FairScr
 
 ```bash
 python start_agent_generator.py
+```
 
 ### Executing program
 
@@ -30,3 +31,4 @@ python start_agent_generator.py
 
 ```bash
 python start_agent_generator.py
+```
