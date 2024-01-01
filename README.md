@@ -33,6 +33,6 @@ pip install -r requests.txt
 python start_agent_generator.py
 ```
 
-## With TEST Dataset
+## With Fair Dataset
 url : https://drive.google.com/file/d/1SXGvj0zMrguydzUJIB4nFWOBNrZlhPWT/view?usp=sharing
 with readme.md
